@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pth
+*.env
+*.venv
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Models and large files
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Vite/React
+.vite/
